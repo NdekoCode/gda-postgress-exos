@@ -1,8 +1,12 @@
 # GDA - Brief pour vendredi 30 sept 2022
 
+## Enoncé du problème
+
 Après un processus long et lent, tu es retenu en tant que développeur dans une université. Et sans attendre, il y a une mission qui t’attend et tu es très excité à l’idée de pouvoir démontrer tes compétences à tes chefs.
 
 L’université souhaite optimiser sa façon de gérer les étudiants et son personnel. Ta mission consiste à mettre en place une bdd qui va faciliter la gestion de données de l’université. Afin de te faciliter la tâche, nous te proposons déjà le modèle physique que tu trouveras à la page 128 du document “Database design” disponible sur Google Classroom. Sans toi libre de le modifier si nécessaire.
+
+## Marche à suivre
 
 Ce qui te reste à faire :
 

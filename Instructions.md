@@ -27,3 +27,21 @@ Avec:
 - -p : Pour PORT
 - -u : Pour User
 - -f : Pour file
+
+## Commande utiliser Dans le fichier gouniv.sql
+
+- `sudo -u postgres -i psql` :Pour la Connexion à postgres comme DB par defaut
+- `CREATE DATABASE` : Pour créer une Base de donnée
+- `CREATE TABLE` : Pour créer une table
+- `CREATE USER` : Pour créer un utilisateur
+- `GRANT`  : peut être ajouté à un type de droit pour tester si le droit est obtenu
+- `GRANT SELECT` : Pour Donner l’utilisateur le droit de lire les données dans la DB
+- `GRANT INSERT` : Pour Donner l’utilisateur le droit d’insérer les données la DB
+- `INSERT INTO` : Pour Insérer les éléments dans la table
+- `SERIAL` : Pour l’auto-incrémentation et l’unicité d’une clé
+- `REFERENCES ()`:Pour décrire une clé étrangers dans la DB
+
+## Ressources utilisées
+
+- [https://sql.sh](https://sql.sh/) Documentation PostgreSQL.pdf
+- [https://www.ibm.com/docs/fr/qmf/11.1?topic=privileges-sql-grant-statement](https://www.ibm.com/docs/fr/qmf/11.1?topic=privileges-sql-grant-statement)
