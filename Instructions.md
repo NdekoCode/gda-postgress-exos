@@ -43,5 +43,6 @@ Avec:
 
 ## Ressources utilisées
 
+- [https://docs.postgresql.fr/](https://docs.postgresql.fr/) La Documentation francaise de PostgreSQL
 - [https://sql.sh](https://sql.sh/) Documentation PostgreSQL.pdf
 - [https://www.ibm.com/docs/fr/qmf/11.1?topic=privileges-sql-grant-statement](https://www.ibm.com/docs/fr/qmf/11.1?topic=privileges-sql-grant-statement)
